@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+
+	<title>Chekout</title>
+
+	<!-- Included CSS Files (Uncompressed) -->
+	<!--
+	<link rel="stylesheet" href="stylesheets/foundation.css">
+-->
+<link rel="stylesheet" href="stylesheets/responsive-tables.css">
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="stylesheets/accessibility_foundicons.css">
+<link rel="stylesheet" href="stylesheets/social_foundicons.css">
+<link rel="stylesheet" href="stylesheets/general_foundicons.css">
+	<!--[if lt IE 8]>
+		<link rel="stylesheet" href="stylesheets/accessibility_foundicons_ie7.css">
+		<link rel="stylesheet" href="stylesheets/social_foundicons_ie7.css">
+		<link rel="stylesheet" href="stylesheets/general_foundicons_ie7.css">
+		<![endif]-->
+
+		<link rel="stylesheet" href="stylesheets/app.css">
+		<link rel="stylesheet" href="stylesheets/foundation.min.css">
+		<script src="javascripts/modernizr.foundation.js"></script>
+	</head>
+	<body>
+		<header class="row">
+			<h4 class="two mobile-three columns show-for-small">
+				<a href="#">
+					Logo
+				</a>
+			</h4>
+			<ul class="button-group six right columns show-for-small">
+				<li><a href="area_personal.html" class="small secondary button social foundicon-torso show-for-small"></a></li>
+				<li><button class="small secondary button access foundicon-question show-for-small"></button></li>
+			</ul>
+		</header>
+		<!-- Top Bar -->
+		<nav class="top-bar hide-for-small">
+			<ul>
+				<!-- Title Area -->
+				<li class="name">
+					<h1>
+						<a href="#">
+							Logo
+
+						</a>
+					</h1>
+				</li>     
+				<li class="toggle-topbar"><a href="#"></a></li>
+			</ul>
+
+			<section>
+				<!-- Right Nav Section -->
+				<ul class="right">    
+					<li><a href="index.html">Inicio</a></li>
+					<li class="divider"></li>
+					<li><a href="store.html">La tienda</a></li>
+					<li class="divider"></li>
+					<li><a href="#bodega-directa">Bodega Directa</a></li>
+					<li class="divider"></li>
+					<li><a href="#club-cosme-palacio">Club Cosme Palacio</a></li>
+					<li class="divider"></li>
+					<li><a href="#empresas">Empresas</a></li>
+					<li class="divider"></li>
+					<li><a href="#noticias">Noticias</a></li>
+					<li class="divider"></li>
+					<li><a href="#conocenos">Conócenos</a></li>
+				</ul>
+			</section>
+		</nav>
+		<!-- End Top Bar -->
+
+		<section class="row">
+						<!-- <ul class="button-group even four-up">
+				<li><a href="checkout.html" class="small button general foundicon-cart show-for-small"> (3)</a></li>
+				<li><button class="small button general foundicon-phone show-for-small"></button></li>
+				<li><a href="area_personal.html" class="small button social foundicon-torso show-for-small"></a></li>
+				<li><button class="small button access foundicon-question show-for-small"></button></li>
+			</ul> -->
+			<ul class="button-group even three-up show-for-small">
+				<li><a href="index.html" class="small button">Inicio</a></li>
+				<li><a href="store.html" class="small button">La Tienda</a></li>
+				<li><a href="#conocenos" class="small button">Conocenos</a></li>
+			</ul>
+			<ul class="accordion">
+				<li class="active">
+					<div class="title">
+						<h5>Confirmar productos</h5>
+					</div>
+					<div class="content">
+						<table class="twelve responsive">
+							<thead>
+								<tr>
+									<th>Artículo</th>
+									<th>Precio</th>
+									<th>Unidad</th>
+									<th>Cantidad</th>
+									<th>Importe</th>
+									<th>Eliminar</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><img src="holder.js/70x20/text:producto" /></td>
+									<td>€12</td>
+									<td>12 bot.</td>
+									<td>						
+										<select>
+											<option>1</option>
+										</select>
+									</td>
+									<td>154.5€</td>
+									<td><button class="tiny secondary button general foundicon-remove"></button></td>
+								</tr>
+								<tr>
+									<td><img src="holder.js/70x20/text:producto" /></td>
+									<td>€123</td>
+									<td>12 bot.</td>
+									<td>						
+										<select>
+											<option>1</option>
+										</select>
+									</td>									
+									<td>154.5€</td>
+									<td><button class="tiny secondary button general foundicon-remove"></button></td>
+								</tr>
+								<tr>
+									<td><img src="holder.js/70x20/text:producto" /></td>
+									<td>€23</td>
+									<td>12 bot.</td>
+									<td>						
+										<select>
+											<option>1</option>
+										</select>
+									</td>								
+									<td>154.5€</td>
+									<td><button class="tiny secondary button general foundicon-remove"></button></td>
+								</tr>
+							</tbody>
+						</table>
+						<h5 class="panel"> Total: €354.56</h5>
+						<button class="small button">Indicar dirección de envio &raquo;</button>
+
+					</div>
+				</li>
+				<li>
+					<div class="title">
+						<h5>Dirección de envío</h5>
+					</div>
+					<div class="content">
+						<form>
+							<fieldset>
+
+								<legend>Datos</legend>
+
+								<label>Comprador anonimo.</label>
+								<button class="button">Indicar dirección</button>
+								<hr>
+								<label>Registrarse.</label>
+								<button class="button">Registro</button>
+								<hr>
+								<label>Usuario registrado.</label>
+								<input type="text" placeholder="Nombre de usuario" />
+								<input type="text" class="six" placeholder="Contraseña" />
+								<ul class="button-group even two-up">
+									<li><button class="small alert button">Olvidado contraseña</button></li>
+									<li><button class="small button">Aceptar &raquo;</button></li>
+								</ul>
+
+							</fieldset>
+						</form>
+					</div>
+				</li>
+				<li>
+					<div class="title">
+						<h5>Forma de pago</h5>
+					</div>
+					<div class="content">
+						
+						<div>
+							<fieldset>								
+								<legend>Selecciona la forma de pago deseada:</legend>
+								<form class="custom"><div class="four columns">
+									<label for="radio1"><input name="radio1" type="radio" id="radio1" style="display:none;"><span class="custom radio"></span> Transferencia bancaria</label>
+									<label for="radio2"><input name="radio1" type="radio" id="radio2" style="display:none;"><span class="custom radio checked"></span> Paypal</label>
+									<label for="radio3"><input name="radio1" type="radio" id="radio3" style="display:none;"><span class="custom radio"></span> Pago con tarjeta</label>
+								</div>
+							</form>
+							<ul class="button-group">
+								<li><button class="small secondary button">Revisar direccion entrega</button></li>
+								<li><button class="small button">Pagar &raquo;</button></li>
+							</ul></fieldset>
+						</div>
+
+					</li>
+					<li>
+						<div class="title">
+							<h5>Confirmación de pedido</h5>
+						</div>
+						<div class="content">
+							<blockquote><strong>¡La compra se ha realizado correctamente!</strong> Gracias por su confianza.
+								El plazo de entrega será de XX días desde este momento.</blockquote>
+								<a href="index.html" class="button">Ir a la home</a>
+								<a href="store.html" class="button">Volver a la tienda</a>
+							</div>
+						</li>
+					</ul>
+				</section>
+
+
+
+				<!-- Footer -->
+
+				<footer class="row">
+					<div class="twelve columns">
+						<div class="row">
+							<div class="six columns">
+								<p>&copy; Copyright no one at all. Go to town.</p>
+							</div>
+
+							<div class="six columns">
+								<ul class="block-grid three-up">
+									<li><a href="#"><img src="holder.js/100x100/text:bodega" /></a></li>
+									<li><a href="#"><img src="holder.js/100x100/text:bodega" /></a></li>
+									<li><a href="#"><img src="holder.js/100x100/text:bodega" /></a></li>
+									<li><a href="#"><img src="holder.js/100x100/text:bodega" /></a></li>
+									<li><a href="#"><img src="holder.js/100x100/text:bodega" /></a></li>
+									<li><a href="#"><img src="holder.js/100x100/text:bodega" /></a></li>
+								</ul>
+								<ul class="button-group">
+									<li><a href="#" class="small button social foundicon-facebook"></a></li>
+									<li><a href="#" class="small button social foundicon-twitter"></a></li>
+								</ul>
+								<ul class="button-group">
+									<li><a href="#" class="tiny button">Aviso legal</a></li>
+									<li><a href="#" class="tiny button">Protección datos</a></li>
+									<li><a href="#" class="tiny button">Wine in Moderation</a></li>
+								</ul>
+
+								<ul class="square">
+									<li><a href="#">Club Cosme Palacios</a></li>
+									<li><a href="#">Premios y menciones</a></li>
+									<li><a href="#">Servicios a empresas</a></li>
+									<li><a href="#">Bodega Directa</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</footer>
+
+				<!-- Included JS Files (Compressed) -->
+				<script src="javascripts/jquery.js"></script>
+				<script src="javascripts/foundation.min.js"></script>
+				<script src="javascripts/responsive-tables.js"></script>
+
+				<!-- Initialize JS Plugins -->
+				<script src="javascripts/app.js"></script>
+				<script type="text/javascript">
+				$(window).load(function() {
+					$('#slider').orbit();
+				});
+				</script>
+			</body>
+			</html>

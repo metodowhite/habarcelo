@@ -1,0 +1,3669 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../Ficha_vino_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:178px;
+    top:230px;
+    width:821px;
+    height:760px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:827px;
+    height:766px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:372px;
+    width:817px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../Ficha_vino_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:679px;
+    top:480px;
+    width:311px;
+    height:308px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:317px;
+    height:314px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:146px;
+    width:307px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../Cabecera_files/u69_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:10px;
+    top:10px;
+    width:997px;
+    height:122px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1003px;
+    height:128px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:53px;
+    width:993px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:98px;
+    top:101px;
+    width:104px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../Cabecera_files/u72_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:22px;
+    top:19px;
+    width:338px;
+    height:50px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:344px;
+    height:56px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:17px;
+    width:334px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9 {
+    position:absolute;
+    left:728px;
+    top:102px;
+    width:91px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10 {
+    position:absolute;
+    left:222px;
+    top:102px;
+    width:165px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11 {
+    position:absolute;
+    left:22px;
+    top:101px;
+    width:66px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12 {
+    position:absolute;
+    left:608px;
+    top:102px;
+    width:110px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13 {
+    position:absolute;
+    left:950px;
+    top:23px;
+    width:50px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:850px;
+    top:55px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../Cabecera_files/u80_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:730px;
+    top:55px;
+    width:90px;
+    height:30px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:96px;
+    height:36px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:7px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17 {
+    position:absolute;
+    left:740px;
+    top:62px;
+    width:80px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u18 {
+    position:absolute;
+    left:660px;
+    top:19px;
+    width:297px;
+    height:31px;
+    overflow:hidden;
+}
+
+#pd1u18 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:297px;
+    height:31px;
+    
+}
+
+.u19 {
+    position:absolute;
+    left:100px;
+    top:4px;
+    width:188px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u20 {
+    position:absolute;
+    left:4px;
+    top:4px;
+    width:86px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u18 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:297px;
+    height:31px;
+    
+}
+
+.u21 {
+    position:absolute;
+    left:27px;
+    top:4px;
+    width:188px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u22 {
+    position:absolute;
+    left:212px;
+    top:4px;
+    width:78px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23 {
+    position:absolute;
+    left:825px;
+    top:102px;
+    width:110px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u24 {
+    position:absolute;
+    left:391px;
+    top:102px;
+    width:211px;
+    height:25px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_normal {
+    background-image: url('../Cabecera_files/u90_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:470px;
+    top:24px;
+    width:100px;
+    height:47px;
+}
+
+#u25_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:106px;
+    height:53px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:96px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u28_normal {
+    background-image: url('../Pie_files/u8_normal.png');
+}
+
+.u28_container {
+    position:absolute;
+    left:10px;
+    top:1230px;
+    width:1000px;
+    height:180px;
+}
+
+#u28_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:1006px;
+    height:186px;
+}
+
+.u29 {
+    position:absolute;
+    left:2px;
+    top:82px;
+    width:996px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u30 {
+    position:absolute;
+    left:374px;
+    top:1375px;
+    width:70px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31 {
+    position:absolute;
+    left:454px;
+    top:1375px;
+    width:94px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u32_line {
+    background-image: url('../Pie_files/u12_line.png');
+}
+
+.u32_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u32 {
+    position:absolute;
+    left:546px;
+    top:1374px;
+    width:10px;
+    height:15px;
+    
+}
+
+.u33_line {
+    background-image: url('../Pie_files/u13_line.png');
+}
+
+.u33_line {
+    position:absolute;
+    left:4px;
+    top:0px;
+    width:3px;
+    height:15px;
+}
+
+.u33 {
+    position:absolute;
+    left:442px;
+    top:1374px;
+    width:10px;
+    height:15px;
+    
+}
+
+.u34 {
+    position:absolute;
+    left:558px;
+    top:1375px;
+    width:50px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u36 {
+    position:absolute;
+    left:79px;
+    top:1244px;
+    width:74px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u37 {
+    position:absolute;
+    left:10px;
+    top:1350px;
+    width:146px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u38 {
+    position:absolute;
+    left:166px;
+    top:1350px;
+    width:674px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u39 {
+    position:absolute;
+    left:213px;
+    top:1244px;
+    width:106px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u40 {
+    position:absolute;
+    left:523px;
+    top:1244px;
+    width:84px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u41 {
+    position:absolute;
+    left:661px;
+    top:1244px;
+    width:69px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u42 {
+    position:absolute;
+    left:807px;
+    top:1244px;
+    width:71px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u43 {
+    position:absolute;
+    left:393px;
+    top:1244px;
+    width:60px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u44_normal {
+    background-image: url('../Pie_files/u24_normal.png');
+}
+
+.u44_container {
+    position:absolute;
+    left:131px;
+    top:1244px;
+    width:30px;
+    height:28px;
+}
+
+#u44_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:34px;
+}
+
+.u45 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../Pie_files/u24_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:323px;
+    top:1244px;
+    width:30px;
+    height:28px;
+}
+
+#u46_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:34px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u48_normal {
+    background-image: url('../Pie_files/u24_normal.png');
+}
+
+.u48_container {
+    position:absolute;
+    left:449px;
+    top:1244px;
+    width:30px;
+    height:28px;
+}
+
+#u48_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:34px;
+}
+
+.u49 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u50_normal {
+    background-image: url('../Pie_files/u24_normal.png');
+}
+
+.u50_container {
+    position:absolute;
+    left:595px;
+    top:1244px;
+    width:30px;
+    height:28px;
+}
+
+#u50_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:34px;
+}
+
+.u51 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u52_normal {
+    background-image: url('../Pie_files/u24_normal.png');
+}
+
+.u52_container {
+    position:absolute;
+    left:727px;
+    top:1244px;
+    width:30px;
+    height:28px;
+}
+
+#u52_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:34px;
+}
+
+.u53 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u54_normal {
+    background-image: url('../Pie_files/u24_normal.png');
+}
+
+.u54_container {
+    position:absolute;
+    left:857px;
+    top:1244px;
+    width:30px;
+    height:28px;
+}
+
+#u54_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:36px;
+    height:34px;
+}
+
+.u55 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:26px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u56 {
+    position:absolute;
+    left:79px;
+    top:1300px;
+    width:116px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u57 {
+    position:absolute;
+    left:213px;
+    top:1284px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u58 {
+    position:absolute;
+    left:389px;
+    top:1284px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u59 {
+    position:absolute;
+    left:523px;
+    top:1284px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u60 {
+    position:absolute;
+    left:663px;
+    top:1284px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u61 {
+    position:absolute;
+    left:805px;
+    top:1284px;
+    width:116px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u62_normal {
+    background-image: url('../Pie_files/u42_normal.png');
+}
+
+.u62_container {
+    position:absolute;
+    left:850px;
+    top:1354px;
+    width:140px;
+    height:34px;
+}
+
+#u62_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:140px;
+    height:34px;
+}
+
+.u63 {
+    position:absolute;
+    left:2px;
+    top:9px;
+    width:136px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u64_normal {
+    background-image: url('../Siguenos_en_files/u44_normal.png');
+}
+
+.u64_container {
+    position:absolute;
+    left:243px;
+    top:1375px;
+    width:22px;
+    height:14px;
+}
+
+#u64_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:28px;
+    height:20px;
+}
+
+.u65 {
+    position:absolute;
+    left:2px;
+    top:-1px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u66 {
+    position:absolute;
+    left:268px;
+    top:1378px;
+    width:42px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u67_normal {
+    background-image: url('../Siguenos_en_files/u44_normal.png');
+}
+
+.u67_container {
+    position:absolute;
+    left:170px;
+    top:1375px;
+    width:22px;
+    height:14px;
+}
+
+#u67_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:28px;
+    height:20px;
+}
+
+.u68 {
+    position:absolute;
+    left:2px;
+    top:-1px;
+    width:18px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u69 {
+    position:absolute;
+    left:194px;
+    top:1378px;
+    width:49px;
+    height:12px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u71 {
+    position:absolute;
+    left:213px;
+    top:1300px;
+    width:116px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u72 {
+    position:absolute;
+    left:389px;
+    top:1300px;
+    width:80px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u73 {
+    position:absolute;
+    left:523px;
+    top:1300px;
+    width:116px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u74 {
+    position:absolute;
+    left:663px;
+    top:1300px;
+    width:116px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u75 {
+    position:absolute;
+    left:807px;
+    top:1300px;
+    width:116px;
+    height:30px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u77_normal {
+    background-image: url('../Ficha_vino_files/u77_normal.png');
+}
+
+.u77_container {
+    position:absolute;
+    left:679px;
+    top:256px;
+    width:311px;
+    height:154px;
+}
+
+#u77_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:317px;
+    height:160px;
+}
+
+.u78 {
+    position:absolute;
+    left:2px;
+    top:69px;
+    width:307px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u79 {
+    position:absolute;
+    left:184px;
+    top:182px;
+    width:798px;
+    height:43px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u80_line {
+    background-image: url('../Ficha_vino_files/u80_line.png');
+}
+
+.u80_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:806px;
+    height:3px;
+}
+
+.u80 {
+    position:absolute;
+    left:184px;
+    top:220px;
+    width:806px;
+    height:10px;
+    
+}
+
+.u81_normal {
+    background-image: url('../Ficha_vino_files/u81_normal.png');
+}
+
+.u81_container {
+    position:absolute;
+    left:877px;
+    top:325px;
+    width:96px;
+    height:38px;
+}
+
+#u81_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:44px;
+}
+
+.u82 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:92px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u83 {
+    position:absolute;
+    left:770px;
+    top:279px;
+    width:103px;
+    height:36px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u84 {
+    position:absolute;
+    left:10px;
+    top:150px;
+    width:84px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u85 {
+    position:absolute;
+    left:70px;
+    top:150px;
+    width:11px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u86 {
+    position:absolute;
+    left:104px;
+    top:150px;
+    width:69px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u88 {
+    position:absolute;
+    left:403px;
+    top:263px;
+    width:276px;
+    height:95px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u89 {
+    position:absolute;
+    left:703px;
+    top:336px;
+    width:60px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u90_normal {
+    background-image: url('../Ficha_vino_files/u90_normal.png');
+}
+
+.u90_container {
+    position:absolute;
+    left:195px;
+    top:248px;
+    width:195px;
+    height:644px;
+}
+
+#u90_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:195px;
+    height:644px;
+}
+
+.u91 {
+    position:absolute;
+    left:2px;
+    top:314px;
+    width:191px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u92 {
+    position:absolute;
+    left:403px;
+    top:398px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u93 {
+    position:absolute;
+    left:403px;
+    top:424px;
+    width:266px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u94 {
+    position:absolute;
+    left:403px;
+    top:504px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u95 {
+    position:absolute;
+    left:403px;
+    top:530px;
+    width:266px;
+    height:112px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u96 {
+    position:absolute;
+    left:686px;
+    top:487px;
+    width:296px;
+    height:38px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u97_normal {
+    background-image: url('../Ficha_vino_files/u97_normal.png');
+}
+
+.u97_container {
+    position:absolute;
+    left:700px;
+    top:545px;
+    width:70px;
+    height:38px;
+}
+
+#u97_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:38px;
+}
+
+.u98 {
+    position:absolute;
+    left:2px;
+    top:11px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u99 {
+    position:absolute;
+    left:790px;
+    top:547px;
+    width:200px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u100_normal {
+    background-image: url('../Ficha_vino_files/u100_normal.png');
+}
+
+.u100_container {
+    position:absolute;
+    left:701px;
+    top:598px;
+    width:70px;
+    height:39px;
+}
+
+#u100_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:39px;
+}
+
+.u101 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u102 {
+    position:absolute;
+    left:790px;
+    top:595px;
+    width:200px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u103_normal {
+    background-image: url('../Ficha_vino_files/u103_normal.png');
+}
+
+.u103_container {
+    position:absolute;
+    left:701px;
+    top:657px;
+    width:70px;
+    height:35px;
+}
+
+#u103_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:35px;
+}
+
+.u104 {
+    position:absolute;
+    left:2px;
+    top:10px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u105 {
+    position:absolute;
+    left:791px;
+    top:657px;
+    width:200px;
+    height:32px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u106_normal {
+    background-image: url('../Ficha_vino_files/u106_normal.png');
+}
+
+.u106_container {
+    position:absolute;
+    left:703px;
+    top:709px;
+    width:70px;
+    height:71px;
+}
+
+#u106_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:70px;
+    height:71px;
+}
+
+.u107 {
+    position:absolute;
+    left:2px;
+    top:28px;
+    width:66px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u108 {
+    position:absolute;
+    left:790px;
+    top:709px;
+    width:200px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u109 {
+    position:absolute;
+    left:403px;
+    top:662px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u110 {
+    position:absolute;
+    left:403px;
+    top:688px;
+    width:266px;
+    height:128px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u111 {
+    position:absolute;
+    left:403px;
+    top:831px;
+    width:200px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u112 {
+    position:absolute;
+    left:403px;
+    top:857px;
+    width:266px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u113_normal {
+    background-image: url('../Comparte_files/u113_normal.png');
+}
+
+.u113_container {
+    position:absolute;
+    left:498px;
+    top:942px;
+    width:77px;
+    height:27px;
+}
+
+#u113_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:77px;
+    height:27px;
+}
+
+.u114 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u115_normal {
+    background-image: url('../Comparte_files/u115_normal.png');
+}
+
+.u115_container {
+    position:absolute;
+    left:585px;
+    top:942px;
+    width:106px;
+    height:29px;
+}
+
+#u115_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:106px;
+    height:29px;
+}
+
+.u116 {
+    position:absolute;
+    left:2px;
+    top:6px;
+    width:102px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u117_normal {
+    background-image: url('../Comparte_files/u117_normal.png');
+}
+
+.u117_container {
+    position:absolute;
+    left:408px;
+    top:948px;
+    width:77px;
+    height:18px;
+}
+
+#u117_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:83px;
+    height:24px;
+}
+
+.u118 {
+    position:absolute;
+    left:2px;
+    top:1px;
+    width:73px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u119 {
+    position:absolute;
+    left:265px;
+    top:738px;
+    width:212px;
+    height:201px;
+    overflow:hidden;
+}
+
+#pd0u119 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:212px;
+    height:201px;
+    
+}
+
+.u120_normal {
+    background-image: url('../Comparte_1_files/u120_normal.png');
+}
+
+.u120_container {
+    position:absolute;
+    left:5px;
+    top:8px;
+    width:200px;
+    height:185px;
+}
+
+#u120_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:206px;
+    height:191px;
+}
+
+.u121 {
+    position:absolute;
+    left:2px;
+    top:84px;
+    width:196px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u122_normal {
+    background-image: url('../Comparte_1_files/u122_normal.png');
+}
+
+.u122_container {
+    position:absolute;
+    left:19px;
+    top:36px;
+    width:21px;
+    height:21px;
+}
+
+#u122_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:21px;
+}
+
+.u123 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u124_normal {
+    background-image: url('../Comparte_1_files/u124_normal.png');
+}
+
+.u124_container {
+    position:absolute;
+    left:19px;
+    top:61px;
+    width:21px;
+    height:21px;
+}
+
+#u124_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:21px;
+}
+
+.u125 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u126_normal {
+    background-image: url('../Comparte_1_files/u126_normal.png');
+}
+
+.u126_container {
+    position:absolute;
+    left:19px;
+    top:87px;
+    width:21px;
+    height:21px;
+}
+
+#u126_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:21px;
+}
+
+.u127 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u128_normal {
+    background-image: url('../Comparte_1_files/u128_normal.png');
+}
+
+.u128_container {
+    position:absolute;
+    left:20px;
+    top:112px;
+    width:20px;
+    height:21px;
+}
+
+#u128_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:21px;
+}
+
+.u129 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u130_normal {
+    background-image: url('../Comparte_1_files/u130_normal.png');
+}
+
+.u130_container {
+    position:absolute;
+    left:20px;
+    top:138px;
+    width:21px;
+    height:21px;
+}
+
+#u130_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:21px;
+    height:21px;
+}
+
+.u131 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:17px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u132_normal {
+    background-image: url('../Comparte_1_files/u132_normal.png');
+}
+
+.u132_container {
+    position:absolute;
+    left:20px;
+    top:164px;
+    width:20px;
+    height:21px;
+}
+
+#u132_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:20px;
+    height:21px;
+}
+
+.u133 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:16px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u134_normal {
+    background-image: url('../Comparte_1_files/u134_normal.png');
+}
+
+.u134_container {
+    position:absolute;
+    left:43px;
+    top:63px;
+    width:66px;
+    height:19px;
+}
+
+#u134_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:25px;
+}
+
+.u135 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u136_normal {
+    background-image: url('../Comparte_1_files/u134_normal.png');
+}
+
+.u136_container {
+    position:absolute;
+    left:43px;
+    top:40px;
+    width:66px;
+    height:19px;
+}
+
+#u136_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:25px;
+}
+
+.u137 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u138_normal {
+    background-image: url('../Comparte_1_files/u138_normal.png');
+}
+
+.u138_container {
+    position:absolute;
+    left:43px;
+    top:166px;
+    width:107px;
+    height:19px;
+}
+
+#u138_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:113px;
+    height:25px;
+}
+
+.u139 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:103px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u140_normal {
+    background-image: url('../Comparte_1_files/u134_normal.png');
+}
+
+.u140_container {
+    position:absolute;
+    left:43px;
+    top:89px;
+    width:66px;
+    height:19px;
+}
+
+#u140_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:25px;
+}
+
+.u141 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u142_normal {
+    background-image: url('../Comparte_1_files/u134_normal.png');
+}
+
+.u142_container {
+    position:absolute;
+    left:43px;
+    top:114px;
+    width:66px;
+    height:19px;
+}
+
+#u142_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:25px;
+}
+
+.u143 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u144_normal {
+    background-image: url('../Comparte_1_files/u134_normal.png');
+}
+
+.u144_container {
+    position:absolute;
+    left:43px;
+    top:139px;
+    width:66px;
+    height:19px;
+}
+
+#u144_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:72px;
+    height:25px;
+}
+
+.u145 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:62px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u146_normal {
+    background-image: url('../Comparte_1_files/u146_normal.png');
+}
+
+.u146_container {
+    position:absolute;
+    left:145px;
+    top:16px;
+    width:52px;
+    height:20px;
+}
+
+#u146_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:58px;
+    height:26px;
+}
+
+.u147 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:48px;
+    height:14px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u149 {
+    position:absolute;
+    left:140px;
+    top:14px;
+    width:60px;
+    height:23px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+.u151_normal {
+    background-image: url('../Carrusel_recomendados_files/u151_normal.png');
+}
+
+.u151_container {
+    position:absolute;
+    left:178px;
+    top:1004px;
+    width:824px;
+    height:209px;
+}
+
+#u151_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:830px;
+    height:215px;
+}
+
+.u152 {
+    position:absolute;
+    left:2px;
+    top:96px;
+    width:820px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u153_normal {
+    background-image: url('../Carrusel_recomendados_files/u153_normal.png');
+}
+
+.u153_container {
+    position:absolute;
+    left:178px;
+    top:1174px;
+    width:824px;
+    height:40px;
+}
+
+#u153_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:830px;
+    height:46px;
+}
+
+.u154 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:820px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u156 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u158 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u160 {
+    position:absolute;
+    left:16px;
+    top:0px;
+    width:1px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u161_normal {
+    background-image: url('../Carrusel_recomendados_files/u161_normal.png');
+}
+
+.u161_container {
+    position:absolute;
+    left:963px;
+    top:1179px;
+    width:29px;
+    height:29px;
+}
+
+#u161_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:35px;
+}
+
+.u162 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:25px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u163_normal {
+    background-image: url('../Carrusel_recomendados_files/u161_normal.png');
+}
+
+.u163_container {
+    position:absolute;
+    left:932px;
+    top:1179px;
+    width:29px;
+    height:29px;
+}
+
+#u163_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:35px;
+    height:35px;
+}
+
+.u164 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:25px;
+    height:23px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u165 {
+    position:absolute;
+    left:197px;
+    top:1012px;
+    width:545px;
+    height:18px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u166_normal {
+    background-image: url('../Vino_Carruse_files/u179_normal.png');
+}
+
+.u166_container {
+    position:absolute;
+    left:197px;
+    top:1038px;
+    width:169px;
+    height:130px;
+}
+
+#u166_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:136px;
+}
+
+.u167 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u168 {
+    position:absolute;
+    left:244px;
+    top:1048px;
+    width:116px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u169_normal {
+    background-image: url('../Vino_Carruse_files/u182_normal.png');
+}
+
+.u169_container {
+    position:absolute;
+    left:205px;
+    top:1041px;
+    width:32px;
+    height:89px;
+}
+
+#u169_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:89px;
+}
+
+.u170 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u171 {
+    position:absolute;
+    left:256px;
+    top:1114px;
+    width:97px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u172 {
+    position:absolute;
+    left:244px;
+    top:1084px;
+    width:123px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u173_normal {
+    background-image: url('../Vino_Carruse_files/u186_normal.png');
+}
+
+.u173_container {
+    position:absolute;
+    left:205px;
+    top:1140px;
+    width:40px;
+    height:22px;
+}
+
+#u173_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:22px;
+}
+
+.u174 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u175 {
+    position:absolute;
+    left:252px;
+    top:1141px;
+    width:107px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u177_normal {
+    background-image: url('../Vino_Carruse_files/u179_normal.png');
+}
+
+.u177_container {
+    position:absolute;
+    left:398px;
+    top:1038px;
+    width:169px;
+    height:130px;
+}
+
+#u177_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:136px;
+}
+
+.u178 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u179 {
+    position:absolute;
+    left:445px;
+    top:1048px;
+    width:116px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u180_normal {
+    background-image: url('../Vino_Carruse_files/u182_normal.png');
+}
+
+.u180_container {
+    position:absolute;
+    left:406px;
+    top:1041px;
+    width:32px;
+    height:89px;
+}
+
+#u180_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:89px;
+}
+
+.u181 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u182 {
+    position:absolute;
+    left:457px;
+    top:1114px;
+    width:97px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u183 {
+    position:absolute;
+    left:445px;
+    top:1084px;
+    width:123px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u184_normal {
+    background-image: url('../Vino_Carruse_files/u186_normal.png');
+}
+
+.u184_container {
+    position:absolute;
+    left:406px;
+    top:1140px;
+    width:40px;
+    height:22px;
+}
+
+#u184_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:22px;
+}
+
+.u185 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u186 {
+    position:absolute;
+    left:453px;
+    top:1141px;
+    width:107px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u188_normal {
+    background-image: url('../Vino_Carruse_files/u179_normal.png');
+}
+
+.u188_container {
+    position:absolute;
+    left:603px;
+    top:1038px;
+    width:169px;
+    height:130px;
+}
+
+#u188_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:136px;
+}
+
+.u189 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u190 {
+    position:absolute;
+    left:650px;
+    top:1048px;
+    width:116px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u191_normal {
+    background-image: url('../Vino_Carruse_files/u182_normal.png');
+}
+
+.u191_container {
+    position:absolute;
+    left:611px;
+    top:1041px;
+    width:32px;
+    height:89px;
+}
+
+#u191_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:89px;
+}
+
+.u192 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u193 {
+    position:absolute;
+    left:662px;
+    top:1114px;
+    width:97px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u194 {
+    position:absolute;
+    left:650px;
+    top:1084px;
+    width:123px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u195_normal {
+    background-image: url('../Vino_Carruse_files/u186_normal.png');
+}
+
+.u195_container {
+    position:absolute;
+    left:611px;
+    top:1140px;
+    width:40px;
+    height:22px;
+}
+
+#u195_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:22px;
+}
+
+.u196 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u197 {
+    position:absolute;
+    left:658px;
+    top:1141px;
+    width:107px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u199_normal {
+    background-image: url('../Vino_Carruse_files/u179_normal.png');
+}
+
+.u199_container {
+    position:absolute;
+    left:808px;
+    top:1038px;
+    width:169px;
+    height:130px;
+}
+
+#u199_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:175px;
+    height:136px;
+}
+
+.u200 {
+    position:absolute;
+    left:2px;
+    top:57px;
+    width:165px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u201 {
+    position:absolute;
+    left:855px;
+    top:1048px;
+    width:116px;
+    height:26px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u202_normal {
+    background-image: url('../Vino_Carruse_files/u182_normal.png');
+}
+
+.u202_container {
+    position:absolute;
+    left:816px;
+    top:1041px;
+    width:32px;
+    height:89px;
+}
+
+#u202_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:32px;
+    height:89px;
+}
+
+.u203 {
+    position:absolute;
+    left:2px;
+    top:36px;
+    width:28px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u204 {
+    position:absolute;
+    left:867px;
+    top:1114px;
+    width:97px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u205 {
+    position:absolute;
+    left:855px;
+    top:1084px;
+    width:123px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u206_normal {
+    background-image: url('../Vino_Carruse_files/u186_normal.png');
+}
+
+.u206_container {
+    position:absolute;
+    left:816px;
+    top:1140px;
+    width:40px;
+    height:22px;
+}
+
+#u206_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:40px;
+    height:22px;
+}
+
+.u207 {
+    position:absolute;
+    left:2px;
+    top:3px;
+    width:36px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u208 {
+    position:absolute;
+    left:863px;
+    top:1141px;
+    width:107px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u211 {
+    position:absolute;
+    left:773px;
+    top:332px;
+    width:94px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u212 {
+    position:absolute;
+    left:873px;
+    top:289px;
+    width:104px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u213_normal {
+    background-image: url('../Lateral_izquierdo_La_Tienda___vinos_files/u472_normal.png');
+}
+
+.u213_container {
+    position:absolute;
+    left:12px;
+    top:222px;
+    width:158px;
+    height:282px;
+}
+
+#u213_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:288px;
+}
+
+.u214 {
+    position:absolute;
+    left:2px;
+    top:133px;
+    width:154px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u215_normal {
+    background-image: url('../Lateral_izquierdo_La_Tienda___vinos_files/u474_normal.png');
+}
+
+.u215_container {
+    position:absolute;
+    left:12px;
+    top:192px;
+    width:158px;
+    height:30px;
+}
+
+#u215_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:36px;
+}
+
+.u216 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u217 {
+    position:absolute;
+    left:22px;
+    top:241px;
+    width:140px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u218 {
+    position:absolute;
+    left:22px;
+    top:226px;
+    width:140px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u219 {
+    position:absolute;
+    left:22px;
+    top:321px;
+    width:140px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u220 {
+    position:absolute;
+    left:22px;
+    top:338px;
+    width:140px;
+    height:60px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u221_normal {
+    background-image: url('../Lateral_izquierdo_La_Tienda___vinos_files/u480_normal.png');
+}
+
+.u221_container {
+    position:absolute;
+    left:12px;
+    top:558px;
+    width:158px;
+    height:30px;
+}
+
+#u221_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:36px;
+}
+
+.u222 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u223_normal {
+    background-image: url('../Lateral_izquierdo_La_Tienda___vinos_files/u480_normal.png');
+}
+
+.u223_container {
+    position:absolute;
+    left:12px;
+    top:514px;
+    width:158px;
+    height:30px;
+}
+
+#u223_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:36px;
+}
+
+.u224 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u225_normal {
+    background-image: url('../Lateral_izquierdo_La_Tienda___vinos_files/u480_normal.png');
+}
+
+.u225_container {
+    position:absolute;
+    left:12px;
+    top:603px;
+    width:158px;
+    height:30px;
+}
+
+#u225_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:164px;
+    height:36px;
+}
+
+.u226 {
+    position:absolute;
+    left:2px;
+    top:4px;
+    width:154px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u227 {
+    position:absolute;
+    left:21px;
+    top:273px;
+    width:140px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u228 {
+    position:absolute;
+    left:21px;
+    top:288px;
+    width:140px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Arial';
+    font-size: 13px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u229 {
+    position:absolute;
+    left:22px;
+    top:406px;
+    width:140px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u230 {
+    position:absolute;
+    left:22px;
+    top:422px;
+    width:140px;
+    height:75px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u231_normal {
+    background-image: url('../Lateral_izquierdo_La_Tienda___vinos_files/u490_normal.png');
+}
+
+.u231_container {
+    position:absolute;
+    left:15px;
+    top:1039px;
+    width:153px;
+    height:80px;
+}
+
+#u231_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:159px;
+    height:86px;
+}
+
+.u232 {
+    position:absolute;
+    left:2px;
+    top:16px;
+    width:149px;
+    height:48px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u233_normal {
+    background-image: url('../Destacado_Enoturismo_estrecho_files/u492_normal.png');
+}
+
+.u233_container {
+    position:absolute;
+    left:12px;
+    top:785px;
+    width:160px;
+    height:240px;
+}
+
+#u233_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:166px;
+    height:246px;
+}
+
+.u234 {
+    position:absolute;
+    left:2px;
+    top:112px;
+    width:156px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u235 {
+    position:absolute;
+    left:35px;
+    top:956px;
+    width:97px;
+    height:29px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u236 {
+    position:absolute;
+    left:20px;
+    top:792px;
+    width:152px;
+    height:28px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u237_normal {
+    background-image: url('../Destacado_Enoturismo_estrecho_files/u496_normal.png');
+}
+
+.u237_container {
+    position:absolute;
+    left:20px;
+    top:830px;
+    width:142px;
+    height:112px;
+}
+
+#u237_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:142px;
+    height:112px;
+}
+
+.u238 {
+    position:absolute;
+    left:2px;
+    top:48px;
+    width:138px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u239 {
+    position:absolute;
+    left:78px;
+    top:995px;
+    width:84px;
+    height:15px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u242_normal {
+    background-image: url('../Bloque_ayuda_estrecho_files/u501_normal.png');
+}
+
+.u242_container {
+    position:absolute;
+    left:12px;
+    top:643px;
+    width:160px;
+    height:130px;
+}
+
+#u242_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:166px;
+    height:136px;
+}
+
+.u243 {
+    position:absolute;
+    left:2px;
+    top:33px;
+    width:156px;
+    height:64px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u244 {
+    position:absolute;
+    left:20px;
+    top:650px;
+    width:152px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u247 {
+    position:absolute;
+    left:773px;
+    top:373px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
